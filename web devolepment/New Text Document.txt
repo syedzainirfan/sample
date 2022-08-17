@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>family</title>
+<h1>my family </h1>
+<body>
+<main><p><h3>My name is Zain.I am 16 years old.
+	We have six brothers no sister.My father name is Irfan.
+	My mother name is Uzma</main></p></h3>
+<footer>
+<p><h3>My father is a driver.And my mother is a house wife.</p></h3>
+<footer>
+</html>
+<h1>
+	Irfan:</h1>
+           <h3>Irfan is a driver.His monthly salary is 20,000.</h3>
+           <p> 
+<h1> Facebook link of Syed Zain Irfan
+</h1>
+<h3> <a href="https://www.facebook.com/profile.php?id=100083846597694/">Visit syed zain irfan Facebook account</a>
+ </h3>
+           </p>
+ </body>          
